@@ -1,0 +1,33 @@
+
+nav{
+    margin:5px;
+    padding:20px 150px;
+    opacity:1;
+    background-color: aquamarine;
+}
+ul li{
+    display: inline;
+    margin:0px 50px;  
+}
+li{
+    color: brown;
+    opacity:1.0;
+}
+h,h1{
+    color:red;
+    text-align: center;
+}
+body{ background-color:greenyellow;
+padding:150px;
+padding:50px;
+}
+div.container{
+    align-items: center;
+    text-align:center;
+    height:100px;
+    margin-top: 50px;
+}
+input{
+    padding:8px 150px;
+    margin-top:8px;
+}
